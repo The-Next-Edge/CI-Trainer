@@ -1,0 +1,17 @@
+{
+  "name": "CI-Trainer",
+  "version": "0.0.0",
+  "description": "I want help to remember to participate in a collective",
+  "dependencies": {
+    "agenda": "^0.6.28",
+    "body-parser": "^1.10.0",
+    "commander": "^2.3.0",
+    "express": "^4.8.8",
+    "hackpad": "0.0.3",
+    "request": "^2.42.0",
+    "underscore": "^1.8.3"
+  },
+  "scripts": {
+    "lint": "jshint ."
+  }
+}
